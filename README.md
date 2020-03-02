@@ -1,2 +1,5 @@
 # hello-world
-This is my first time using Git Hub 
+
+Hello people!
+
+I'am here to learn all about code and web developing. 
